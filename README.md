@@ -56,5 +56,5 @@ Este projeto é um conversor de vídeos do YouTube para MP3 usando Flask e `yt-d
 - **Executando o Projeto**: Como iniciar o servidor Flask.
 - **Como Usar**: Passos para usar a aplicação.
 - **Observações**: Informações adicionais, como a necessidade do FFmpeg.
-- **Licença**: Tipo de licença para o projeto (se aplicável).
+
 
