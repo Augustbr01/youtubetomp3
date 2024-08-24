@@ -37,23 +37,15 @@ Este projeto é um conversor de vídeos do YouTube para MP3 usando Flask e `yt-d
 
 ## Como usar
 
-**1. Cole a URL do vídeo do YouTube no campo de entrada.**
-**2. Clique no botão "Converter".**
-**3. O arquivo MP3 será baixado automaticamente na pasta /downloads.**
-
-- **Clone o Repositório**: Instruções para clonar o projeto do GitHub (substitua o URL pelo seu).
-- **Crie e Ative um Ambiente Virtual**: Instruções para criar e ativar um ambiente virtual.
-- **Instale as Dependências**: Instruções para instalar as bibliotecas necessárias.
-- **Executando o Projeto**: Como iniciar o servidor Flask.
-- **Como Usar**: Passos para usar a aplicação.
-- **Observações**: Informações adicionais, como a necessidade do FFmpeg.
-- **Licença**: Tipo de licença para o projeto (se aplicável).
+- **1. Cole a URL do vídeo do YouTube no campo de entrada.**
+- **2. Clique no botão "Converter".**
+- **3. O arquivo MP3 será baixado automaticamente na pasta /downloads.**
 
 
 ## Observações
 
-** - Certifique-se de que o FFmpeg está instalado no seu sistema para a conversão de áudio. [Instruções de instalação do FFmpeg](https://ffmpeg.org/download.html).**
-** - Este projeto foi desenvolvido para fins educacionais. Use-o conforme as leis de direitos autorais aplicáveis.**
+- **Certifique-se de que o FFmpeg está instalado no seu sistema para a conversão de áudio. [Instruções de instalação do FFmpeg](https://ffmpeg.org/download.html).**
+- **Este projeto foi desenvolvido para fins educacionais. Use-o conforme as leis de direitos autorais aplicáveis.**
 --------------------------------------------------------
 
 ### Explicação dos Seções:
